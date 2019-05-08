@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520292660 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\mes por extenso\main.c
+	<stdio.h>
+	<stdlib.h>
+

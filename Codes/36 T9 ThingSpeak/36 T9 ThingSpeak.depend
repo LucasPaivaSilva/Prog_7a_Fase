@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523657497 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\36 t9 thingspeak\main.c
+	<stdio.h>
+	<stdlib.h>
+

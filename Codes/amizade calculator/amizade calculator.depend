@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520974671 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\amizade calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

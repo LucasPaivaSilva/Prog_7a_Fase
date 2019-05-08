@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526870656 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\44 leitura dos carros com struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"modelo.h"
+
+1526869441 c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\44 leitura dos carros com struct\modelo.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524524964 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\40 t10 exercicio em dupla\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

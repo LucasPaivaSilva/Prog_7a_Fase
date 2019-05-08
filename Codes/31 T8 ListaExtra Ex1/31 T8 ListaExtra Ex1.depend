@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523055736 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\31 t8 listaextra ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+

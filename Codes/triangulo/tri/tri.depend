@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519427504 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\triangulo\tri\main.c
+	<stdio.h>
+	<stdlib.h>
+

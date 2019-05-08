@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520630766 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\nome_strlen\main.c
+	<stdio.h>
+	<stdlib.h>
+

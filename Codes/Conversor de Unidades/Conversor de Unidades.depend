@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519956326 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\conversor de unidades\main.c
+	<stdio.h>
+	<stdlib.h>
+

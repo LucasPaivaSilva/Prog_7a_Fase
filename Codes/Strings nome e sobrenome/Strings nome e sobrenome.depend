@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520025332 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\strings nome e sobrenome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

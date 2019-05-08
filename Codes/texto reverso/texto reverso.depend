@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520300230 source:c:\users\lucas\dropbox\aulas\2018.1\programação em c\codes\texto reverso\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

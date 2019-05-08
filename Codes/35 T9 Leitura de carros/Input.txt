@@ -1,0 +1,7 @@
+Tesla Model_S 2017 100.000
+Ford Fiesta 2009 20.000
+Nissan Frontier 2017 50.000
+Nicolas Robson 1999 200.000
+Tesla Model_X 2018 150.000
+Ford Toro 2018 90.000
+
